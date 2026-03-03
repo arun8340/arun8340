@@ -102,15 +102,6 @@ WordPress • Shopify
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arun8340&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arun8340&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 💡 Strengths
 
 ✔ Strong problem-solving skills  
