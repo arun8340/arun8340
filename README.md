@@ -1,121 +1,70 @@
-<h1 align="center">Hi 👋, I'm M V Arun Prasad</h1>
-<h3 align="center">Software Developer | Flutter | React | Node.js | UI/UX Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Arun Prasad</h1>
+<h3 align="center">Software Developer | Flutter | React | Node.js</h3>
 
-<p align="center">
-📍 Visakhapatnam, India <br/>
-📧 arunfrnds80@gmail.com <br/>
-📱 8340888770 <br/>
-<a href="https://www.linkedin.com/in/arun-prasad-b6ab071aa/">LinkedIn</a>
+---
+
+## ✨ About Me
+
+* 👋 Hi, I’m Arun Prasad
+* 💻 Software Developer with 5+ years experience
+* 📱 I build Mobile & Web Applications
+* 🎨 Interested in UI/UX and modern frontend development
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/arun-prasad-b6ab071aa/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:arunfrnds80@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💻 Tech Stack
 
-Software Developer with **5+ years of experience** specializing in:
+### Mobile
 
-- 📱 Cross-platform Mobile Development (Flutter & Dart)
-- 🌐 Web Development (React.js, Next.js)
-- ⚙️ Backend Development (LoopBack 4, Node.js, TypeScript)
-- 🗄️ Database Design (MongoDB, SQL Server)
-- 🎨 UI/UX Design & Screen Enhancements
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-Experienced in Agile/Scrum environments, collaborating with product owners, QA, and stakeholders to deliver scalable and user-friendly applications.
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## 🛠️ Tech Stack
+### Backend
 
-### 📱 Mobile
-Flutter • Dart (Android & iOS)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Loopback](https://img.shields.io/badge/Loopback-blue?style=for-the-badge)
 
-### 🌐 Frontend
-React.js • Next.js • JavaScript • HTML • CSS • Bootstrap  
-jQuery • GSAP • Framer Motion
+### Databases
 
-### ⚙️ Backend
-LoopBack 4 • Node.js • Express.js • TypeScript  
-REST APIs • GraphQL
-
-### 🗄️ Databases
-MongoDB • SQL Server
-
-### ☁️ Cloud & DevOps
-Docker • AWS (Basic) • CI/CD
-
-### 🧪 Testing
-Manual Testing • Selenium
-
-### 🛍️ CMS & E-Commerce
-WordPress • Shopify
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge\&logo=microsoft-sql-server)
 
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Stats
 
-### 🚀 Software Developer  
-**Alessa Software Pvt. Ltd.**  
-(May 2025 – Present)
+<p align="center">
 
-**IMedical Works Pvt. Ltd.**  
-(May 2022 – April 2025)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-- Developed cross-platform mobile applications using Flutter
-- Built RESTful APIs using LoopBack 4 & TypeScript
-- Designed and optimized MongoDB databases
-- Developed web applications using React.js & Next.js
-- Contributed to UI/UX design improvements
-- Implemented unit & integration testing
-- Participated in Agile/Scrum processes
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-### 🧪 Manual Tester  
-**IMedical Works Pvt. Ltd.**  
-(May 2020 – May 2022)
-
-- Performed functional, regression & smoke testing
-- Prepared test cases & documented defects
-- Collaborated with developers to resolve issues
+</p>
 
 ---
 
-## 🌟 Side Projects
-
-- ✨ Animation-based websites using GSAP & custom JS
-- 🚀 Modern Next.js application with Framer Motion
-- 🌐 4 WordPress websites (custom themes & SEO)
-- 🛒 2 Shopify stores (theme customization & payments)
-- 🎨 Applied UI/UX best practices across all projects
-
----
-
-## 🎓 Education
-
-🎓 MCA – Dr. L. Bullaya College (2024)  
-🎓 B.Sc. Computers – Dr. L. Bullaya College (2020)
-
----
-
-## 📜 Certifications
-
-- MERN Stack Certification – Udemy
-- SEO II Certification – HubSpot
-
----
-
-## 💡 Strengths
-
-✔ Strong problem-solving skills  
-✔ Clean & maintainable code practices  
-✔ Quick learner & adaptable  
-✔ Team player with clear communication  
-
----
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/arun-prasad-b6ab071aa/
-- 📧 Email: arunfrnds80@gmail.com
-
----
-
-⭐️ From Arun Prasad
+⭐ From Arun Prasad
