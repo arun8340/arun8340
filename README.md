@@ -63,9 +63,10 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arun8340&theme=onedark&row=1&column=6" />
-</p>
+## 📈 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun8340&theme=github-dark" />
+
 
 ---
 
