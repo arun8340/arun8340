@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me 
 
 * 👋 Hi, I’m **Arun Prasad**
 * 💻 Software Developer with **5+ years experience**
